@@ -25,11 +25,12 @@ This journal may include notes and practical work on:
 
 # 🗂️ Repository Structure
 
+```text 
 cybersecurity-learning-journal/
 │
 ├── README.md
 ├── Linux/
 │   ├── Basic commands
-
+```
 
 Learning through practice, experimentation and continuous improvement.
